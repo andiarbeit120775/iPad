@@ -29,7 +29,7 @@
         </dict>
     </array>
     <key>PayloadDisplayName</key>
-    <string>Configurations</string>
+    <string>Proxy configurations</string>
     <key>PayloadIdentifier</key>
     <string>com.oel.nige.configurations</string>
     <key>PayloadRemovalDisallowed</key>
