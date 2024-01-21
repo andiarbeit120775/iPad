@@ -10,11 +10,11 @@
             <key>PayloadVersion</key>
             <integer>1</integer>
             <key>PayloadIdentifier</key>
-            <string>com.example.proxy.settings</string>
+            <string>com.oel.nigeproxy.settings</string>
             <key>PayloadUUID</key>
-            <string>Any-Unique-Identifier-Here</string>
+            <string>3fdf1054-2b22-41af-a43b-8282ba055331</string>
             <key>PayloadDisplayName</key>
-            <string>Proxy Settings</string>
+            <string>Proxy Settings</string> <!-- Updated PayloadDisplayName key -->
             <key>PayloadDescription</key>
             <string>Configures proxy settings from .pac file</string>
             <key>PayloadContent</key>
@@ -31,13 +31,13 @@
     <key>PayloadDisplayName</key>
     <string>Configurations</string>
     <key>PayloadIdentifier</key>
-    <string>com.example.configurations</string>
+    <string>com.oel.nige.configurations</string>
     <key>PayloadRemovalDisallowed</key>
     <false/>
     <key>PayloadType</key>
     <string>Configuration</string>
     <key>PayloadUUID</key>
-    <string>Any-Unique-Identifier-Here</string>
+    <string>3fdf1054-2b22-41af-a43b-8282ba055331</string>
     <key>PayloadVersion</key>
     <integer>1</integer>
 </dict>
